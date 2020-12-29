@@ -1,0 +1,2 @@
+# python_consul_sync_nginx
+Python获取consul服务列表信息，同步信息到NGINX
